@@ -1,6 +1,10 @@
-Welcome to new mint tag update! This has added horror, water fog,
-new cosmetics, and bug fixes.
+Welcome to new mint tag update! 
+(CHANGE LOG)
+- Fixed water
+- New audio in mines
+- Made voices louder
+- Bugfixes
 
--Dxtor And MintMan | Public 0.18
+-Dxtor And MintMan | Public 0.20
 
 
