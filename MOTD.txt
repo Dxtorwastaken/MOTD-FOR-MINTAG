@@ -1,10 +1,11 @@
 Welcome to new mint tag update! 
 (CHANGE LOG)
-- Fixed water
-- New audio in mines
-- Made voices louder
-- Bugfixes
+- Hitsounds
+- New horror gamemode
+- Fixed falling out of map (MAYBE)
+- There is a bug with the server so if you cant hear anyone or change your color just
+join the server again
 
--Dxtor And MintMan | Public 0.20
+-Dxtor And MintMan | Public 0.22
 
 
