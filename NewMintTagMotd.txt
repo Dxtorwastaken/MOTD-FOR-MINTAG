@@ -1,10 +1,9 @@
-Bug fix ->
+New Update!
 
--Fixed water
--Adjusted flashlight
--Fixed random flinging
--Removed debug cube
--Other stuff
+- Added Message of the day
+- adjusted horror flashlight
+- Added Horror Monster to horror...
+- Made some addons and secrets to horror
+- New playfab
 
-discord.gg/BBvMsfvJam
 - Dxtor
